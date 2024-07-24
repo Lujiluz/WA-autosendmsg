@@ -1,6 +1,6 @@
 # Penjelasan Singkat
 
-Suatu ketika, sebagai bagian dari Humas di kepanitiaan, aku diminta untuk menghubungi sejumlah nomor telepon calon peserta kegiatan yang kami adakan. Because I'm to lazy to save the phone numbers and copy-pasting the message, I decided to create this simple script to automatically send the message to the corresponding phone numbers. Kalo kamu mau coba, bolee~
+Suatu ketika, sebagai bagian dari Humas di kepanitiaan, aku diminta untuk menghubungi sejumlah nomor telepon calon peserta kegiatan yang kami adakan. Because I'm too lazy to save the phone numbers and copy-pasting the message, I decided to create this simple script to automatically send the message to the corresponding phone numbers. Kalo kamu mau coba, bolee~
 
 ## Instalasi
 
@@ -20,7 +20,7 @@ phone_numbers = []
 
 ## Penutup
 
-Ini pertama kalinya bagiku untuk membagikan script yang kubuat agar digunakan orang lain, jadi aku minta maaf jika ada kekurangan dalam penjelasan instalasi (basically, I'm a newbie). Jika kamu merasa script ini membantumu, kamu bisa mengekspresikan dukunganmu dengan follow sosial mediaku berikut:
+Ini pertama kalinya bagiku untuk membagikan script yang kubuat agar digunakan orang lain, jadi aku minta maaf jika ada kekurangan dalam penjelasan instalasi atau yang lainnya (basically, I'm a newbie). Jika kamu merasa script ini membantumu, kamu bisa mengekspresikan dukunganmu dengan follow sosial mediaku berikut:
 
 [Instagram](https://www.instagram.com/luji.archive/)
 
